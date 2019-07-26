@@ -25,7 +25,7 @@
     "grunt-contrib-jshint": "latest",
     "grunt-contrib-less": "latest",
     "grunt-contrib-uglify": "latest",
-    "grunt-env": "^0.4.4",
+    "grunt-env": "^1.0.1",
     "grunt-jscs": "latest",
     "grunt-nuget": "^0.1.5",
     "grunt-string-replace": "latest",
